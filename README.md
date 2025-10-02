@@ -1,3 +1,3 @@
-# Merge-conflits
+Local
 
 Quelque ligne
